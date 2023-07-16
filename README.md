@@ -1,7 +1,7 @@
 👋 Hey there, you can call me Wiki.
 
 📞 You can contact me on discord: Wiki#5420
-<details><summary>My Public PGP Key</summary><p>
+<details><summary>Click For My Public PGP Key</summary><p>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
